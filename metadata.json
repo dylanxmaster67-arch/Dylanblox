@@ -1,0 +1,6 @@
+{
+  "name": "Dylanblox",
+  "description": "Multiplayer sandbox game platform with custom level creation, community games, avatar customization, voice chat, and admin commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
